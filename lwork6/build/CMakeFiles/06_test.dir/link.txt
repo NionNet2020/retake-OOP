@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/06_test.dir/test/test06.cpp.o -o 06_test  libnpc.a lib/libgtest_main.a lib/libgtest.a 

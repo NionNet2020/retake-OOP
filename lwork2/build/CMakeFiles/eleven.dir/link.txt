@@ -1,0 +1,2 @@
+/usr/bin/ar qc libeleven.a CMakeFiles/eleven.dir/eleven.cpp.o CMakeFiles/eleven.dir/test02.cpp.o
+/usr/bin/ranlib libeleven.a
