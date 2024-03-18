@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MyProject.dir/test01.cpp.o CMakeFiles/MyProject.dir/psycho.cpp.o -o MyProject  -lgtest -lpthread 
